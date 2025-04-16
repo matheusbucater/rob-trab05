@@ -5,7 +5,7 @@
 - Matheus Pelegrini Bucater
 - 11921ECP022
 
-Nesse trabalho foi desenvolvido um programa que recebe os parâmetros de Danavit-Hartenberg de um robô, assim como o mostrado abaixo, com dois elos e duas juntas e então retorna as coordenadas (x, y, z) de seu TCP.
+Nesse trabalho foi desenvolvido um programa que recebe os parâmetros de Danavit-Hartenberg de um robô, assim como o mostrado abaixo, e então retorna as coordenadas (x, y, z) de seu TCP.
 
 ![Robô com dois elos](./images/robo_exemplo.png)
 
