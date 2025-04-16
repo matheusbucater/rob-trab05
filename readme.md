@@ -18,8 +18,8 @@ Nesse trabalho foi desenvolvido um programa que recebe os parâmetros de Danavit
 
 ### 1. Clonando o diretório
 ```bash
-git clone https://github.com/matheusbucater/rob-trab04.git
-cd rob-trab04
+git clone https://github.com/matheusbucater/rob-trab05.git
+cd rob-trab05
 ```
 
 ### 2. Criação e ativação do ambiente virtual
